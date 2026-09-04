@@ -1,5 +1,12 @@
 # Metis
 
+> [!WARNING]
+> ## Archived
+> Metis is no longer maintained and will receive no further releases. It
+> depends on the retired Hermes/HAL Olympus stack. For new systems, use the
+> service discovery and load-balancing facilities provided by the deployment
+> platform, or a maintained client designed for the target protocol.
+
 ## Introduction
 
 This is a Dynamic Routing and Load Balance library made with PHP.
